@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.exe
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.deps.json
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.runtimeconfig.json
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.dll
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\bin\Debug\netcoreapp3.1\Day2Lecture.pdb
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.dll
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.pdb
+C:\Users\Jeo\source\repos\Day2Lecture\Day2Lecture\obj\Debug\netcoreapp3.1\Day2Lecture.genruntimeconfig.cache
