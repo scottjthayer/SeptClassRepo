@@ -11,3 +11,16 @@ C:\Users\Jeo\source\repos\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\Arra
 C:\Users\Jeo\source\repos\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.dll
 C:\Users\Jeo\source\repos\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.pdb
 C:\Users\Jeo\source\repos\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.genruntimeconfig.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.exe
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.deps.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.runtimeconfig.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.runtimeconfig.dev.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.dll
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\bin\Debug\netcoreapp3.1\ArrayLecture.pdb
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.csprojAssemblyReference.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.AssemblyInfo.cs
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.dll
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.pdb
+C:\Users\Jeo\Desktop\Class Repo\Unit 1 c#\ArrayLecture\ArrayLecture\obj\Debug\netcoreapp3.1\ArrayLecture.genruntimeconfig.cache

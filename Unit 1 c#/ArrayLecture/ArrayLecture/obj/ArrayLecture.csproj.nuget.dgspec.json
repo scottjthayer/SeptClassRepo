@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeo\\source\\repos\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj": {}
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 1 c#\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeo\\source\\repos\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj": {
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 1 c#\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj",
+        "projectUniqueName": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 1 c#\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj",
         "projectName": "ArrayLecture",
-        "projectPath": "C:\\Users\\Jeo\\source\\repos\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj",
+        "projectPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 1 c#\\ArrayLecture\\ArrayLecture\\ArrayLecture.csproj",
         "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeo\\source\\repos\\ArrayLecture\\ArrayLecture\\obj\\",
+        "outputPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 1 c#\\ArrayLecture\\ArrayLecture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

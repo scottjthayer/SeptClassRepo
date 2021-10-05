@@ -132,6 +132,27 @@ namespace ArrayLecture
                 Console.WriteLine(i);
             }
 
+            //Dictonaries
+            Dictionary<string, bool> tasty = new Dictionary<string, bool>();
+            tasty.Add("Pad Thai", true);
+            tasty.Add("Mustard", false);
+            //tasty.Remove("Mustard");
+            
+            Console.WriteLine(tasty["Pad Thai"]);
+            foreach(KeyValuePair<string, bool> kvp in tasty)
+            {
+                if(kvp.Value == true)
+                {
+                    Console.WriteLine($"{kvp.Key} is tasty!");
+                }
+                else
+                {
+                    Console.WriteLine($"{kvp.Key} is not tasty");
+                }
+            }
+            
+
+
             //Non-generics - These are the old wrinkly ones
             //ArrayList
             ArrayList myArrayList = new ArrayList();
@@ -142,6 +163,46 @@ namespace ArrayLecture
             {
                 Console.WriteLine(i);
             }
+
+            //Hashtable
+            Hashtable phonebook = new Hashtable();
+            phonebook.Add("Pizza Hut", 1234567890);
+            phonebook.Add("Hungry Howies", 9999999999);
+            //line below is allowed, but causes errors during runtime
+            //phonebook.Add("Little Caesars", "987-654-3210");
+            string pizzaShop = "Dominos";
+            phonebook.Add(pizzaShop, 1231155612);
+            //phonebook[pizzaShop]
+
+            Console.WriteLine($"Pizza huts number is : {phonebook["Pizza Hut"]}");
+            foreach(DictionaryEntry entry in phonebook)
+            {
+                Console.WriteLine($"{entry.Key} : {entry.Value}");
+            }
+
+
+
+
+            //School Dictionary example
+            Dictionary<string, int> students = new Dictionary<string, int>();
+            students.Add("Mary", 5);
+            students.Add("Tommy", 1);
+            students.Add("a", 10);
+            students.Add("b", 12);
+            students.Add("c", 5);
+            students.Add("d", 1);
+            students.Add("e", 10);
+            students.Add("bf", 12);
+            students.Add("asdf", 8);
+            students.Add("Jeff", 9);
+
+            foreach(KeyValuePair<string, int> kvp in students)
+            {
+                Console.WriteLine($"{kvp.Key} is in {kvp.Value} grade");
+            }
+
+            
+
         }
     }
 }
