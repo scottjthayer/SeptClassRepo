@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.exe
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.deps.json
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.runtimeconfig.json
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.dll
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\bin\Debug\netcoreapp3.1\ExceptionLecture.pdb
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.dll
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.pdb
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.genruntimeconfig.cache
+C:\Users\Jeo\source\repos\ExceptionLecture\ExceptionLecture\obj\Debug\netcoreapp3.1\ExceptionLecture.csprojAssemblyReference.cache
