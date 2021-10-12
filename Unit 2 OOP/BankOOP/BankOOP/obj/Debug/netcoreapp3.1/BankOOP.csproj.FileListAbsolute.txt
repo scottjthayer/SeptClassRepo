@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.exe
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.deps.json
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.runtimeconfig.json
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.dll
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\bin\Debug\netcoreapp3.1\BankOOP.pdb
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.dll
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.pdb
+C:\Users\Jeo\source\repos\BankOOP\BankOOP\obj\Debug\netcoreapp3.1\BankOOP.genruntimeconfig.cache
