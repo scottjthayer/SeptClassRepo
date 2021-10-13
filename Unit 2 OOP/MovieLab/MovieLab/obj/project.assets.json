@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 2 OOP\\OOPShop\\OOPShop\\OOPShop.csproj",
-      "projectName": "OOPShop",
-      "projectPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 2 OOP\\OOPShop\\OOPShop\\OOPShop.csproj",
+      "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\MovieLab\\MovieLab\\MovieLab.csproj",
+      "projectName": "MovieLab",
+      "projectPath": "C:\\Users\\Jeo\\source\\repos\\MovieLab\\MovieLab\\MovieLab.csproj",
       "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 2 OOP\\OOPShop\\OOPShop\\obj\\",
+      "outputPath": "C:\\Users\\Jeo\\source\\repos\\MovieLab\\MovieLab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

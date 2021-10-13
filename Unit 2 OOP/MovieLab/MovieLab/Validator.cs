@@ -35,7 +35,7 @@ namespace Validator
                 result = GetNumber();
                 if(result < min || result > max)
                 {
-                    Console.WriteLine($"That value is outside the range, please enter a number between {min} and {max}");
+                    Console.WriteLine($"That value is too low, please enter a number between {min} and {max}");
                 }
                 else
                 {

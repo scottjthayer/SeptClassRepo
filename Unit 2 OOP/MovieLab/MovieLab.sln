@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLab", "MovieLab\MovieLab.csproj", "{DA47AA2B-EF85-4666-9893-AC50C0A80F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA47AA2B-EF85-4666-9893-AC50C0A80F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA47AA2B-EF85-4666-9893-AC50C0A80F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA47AA2B-EF85-4666-9893-AC50C0A80F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA47AA2B-EF85-4666-9893-AC50C0A80F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2692D2-BA20-47DF-8000-AE9ECD0221F9}
+	EndGlobalSection
+EndGlobal

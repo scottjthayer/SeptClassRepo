@@ -15,12 +15,12 @@ namespace OOPShop
             new Item("Candy", 1.00)
         };
         //constructor
-        /*
+        
         public Shop()
         {
 
         }
-        */
+        
         //methods
         public void DisplayShop()
         {

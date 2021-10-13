@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.exe
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.deps.json
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.runtimeconfig.json
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.dll
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\bin\Debug\netcoreapp3.1\CarGarage.pdb
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.dll
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.pdb
+C:\Users\Jeo\source\repos\CarGarage\CarGarage\obj\Debug\netcoreapp3.1\CarGarage.genruntimeconfig.cache
