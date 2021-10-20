@@ -8,7 +8,7 @@ namespace Console_Fonts
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
-            ConsoleHelper.SetCurrentFont("Comic Sans MS", 100);
+            ConsoleHelper.SetCurrentFont("MS Gothic", 100);
             Console.WriteLine("Hewwo wowld");
         }
     }
