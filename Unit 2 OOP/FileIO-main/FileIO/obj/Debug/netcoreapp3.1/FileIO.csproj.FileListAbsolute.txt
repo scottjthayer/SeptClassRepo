@@ -1,0 +1,26 @@
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\TheTower\source\repos\FileIO\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb
+C:\Users\TheTower\source\repos\FileIO\FileIO\obj\Debug\netcoreapp3.1\FileIO.genruntimeconfig.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.exe
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.deps.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.runtimeconfig.dev.json
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\bin\Debug\netcoreapp3.1\FileIO.pdb
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.csprojAssemblyReference.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfoInputs.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.AssemblyInfo.cs
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.dll
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.pdb
+C:\Users\Jeo\Desktop\Class Repo\Unit 2 OOP\FileIO-main\FileIO\obj\Debug\netcoreapp3.1\FileIO.genruntimeconfig.cache

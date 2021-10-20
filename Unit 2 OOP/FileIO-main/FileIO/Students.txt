@@ -1,0 +1,6 @@
+Stan,8,4
+Kyle,8,4
+Kenny,8,4
+Cartman,8,4
+Butters,8,4
+Tweak,8,4
