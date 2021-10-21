@@ -1,0 +1,12 @@
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.exe
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.deps.json
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.runtimeconfig.json
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.dll
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\bin\Debug\netcoreapp3.1\MVCLecture.pdb
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.dll
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.pdb
+C:\Users\Jeo\source\repos\MVCLecture\MVCLecture\obj\Debug\netcoreapp3.1\MVCLecture.genruntimeconfig.cache

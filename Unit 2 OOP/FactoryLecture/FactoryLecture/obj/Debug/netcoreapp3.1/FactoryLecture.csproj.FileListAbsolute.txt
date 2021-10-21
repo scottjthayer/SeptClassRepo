@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.exe
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.deps.json
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.runtimeconfig.json
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.dll
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\bin\Debug\netcoreapp3.1\FactoryLecture.pdb
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.dll
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.pdb
+C:\Users\Jeo\source\repos\FactoryLecture\FactoryLecture\obj\Debug\netcoreapp3.1\FactoryLecture.genruntimeconfig.cache
