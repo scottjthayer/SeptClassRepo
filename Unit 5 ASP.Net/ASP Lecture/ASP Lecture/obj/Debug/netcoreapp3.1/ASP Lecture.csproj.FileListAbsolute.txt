@@ -1,0 +1,40 @@
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.exe
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.deps.json
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.runtimeconfig.json
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.dll
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.pdb
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.Views.dll
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\bin\Debug\netcoreapp3.1\ASP Lecture.Views.pdb
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.RazorAssemblyInfo.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.RazorAssemblyInfo.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\staticwebassets\ASP Lecture.StaticWebAssets.Manifest.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\staticwebassets\ASP Lecture.StaticWebAssets.xml
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP Lecture.styles.css
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.TagHelpers.input.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.TagHelpers.output.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.RazorCoreGenerate.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.RazorTargetAssemblyInfo.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.RazorTargetAssemblyInfo.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.Views.pdb
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.dll
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.pdb
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.genruntimeconfig.cache
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\ASP Lecture.csproj.CopyComplete
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Form.cshtml.g.cs
+C:\Users\Jeo\source\repos\ASP Lecture\ASP Lecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
