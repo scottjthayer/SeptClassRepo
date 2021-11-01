@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post" asp-action="CreateEvent">
+    <label for="Name">Please enter a name</label>
+    <input type="text" name="Name" id="Name" />
+
+    <label for="Date">Please enter a Date</label>
+    <input type="datetime" name="Date" id="Date" />
+
+    <p>Is this sold out?</p>
+    <label for="true">Sold out</label>
+    <input type="radio" name="soldCheck" value="1" id="true"/>
+    <label for="false">Not sold out</label>
+    <input type="radio" name="soldCheck" value="0" id="false" />
+
+    <input type="submit" />
+</form>

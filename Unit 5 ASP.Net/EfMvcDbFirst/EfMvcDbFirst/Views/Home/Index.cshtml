@@ -1,0 +1,25 @@
+﻿@model List<Event>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@foreach(Event e in Model)
+            {
+                <div>
+                    <h2>@e.Name</h2>
+                    <h3>This event will happen on @e.Date</h3>
+                    @if(e.SoldOut == true)
+                    {
+                        <h3>This event is sold out</h3>
+                    }
+                    else
+                    {
+                        <h3>This event is still selling tickets</h3>
+                    }
+                </div>
+            }
