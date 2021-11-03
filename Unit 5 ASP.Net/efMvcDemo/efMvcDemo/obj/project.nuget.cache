@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1Uf8gQkIlVJbOSL9ebOdmdgdg7pF5Z25Vio0j7gglaLoHA7cEzpzwx4k0ZEUmiSkJ6/bnNvpZa9IIqwQeuyxg==",
+  "dgSpecHash": "t37PsoW9X0eoIA8mN2Vj/qtp6q5H2uN8uz9u6SAypakh9hVO5oD9bPIfsN7zXkN+lEuwnDg3t0CKKTYd7AnwKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
+  "projectFilePath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jeo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

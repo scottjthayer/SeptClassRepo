@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5aEDP+p9sFZZNs5bTUsTaodIX6i4darOuoNBWMqBzrO4ECbWs1RtSUTlBN34ByZcgaf6U6R3ToRZVDDoZPJeMw==",
+  "dgSpecHash": "mD6jVE+5SZ+sA/rS+9ZAGkJZmSLnxuV/lsXnxCYnOROr+2fNbvlsgXfulPvp9of8wJaa8ba1Lxc2KPwXdoc9iA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeo\\source\\repos\\EFMVCDBFirst\\EfMvcDbFirst\\EfMvcDbFirst.csproj",
+  "projectFilePath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcDbFirst\\EfMvcDbFirst\\EfMvcDbFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jeo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

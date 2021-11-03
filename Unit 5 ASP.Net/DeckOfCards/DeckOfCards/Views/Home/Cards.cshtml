@@ -1,0 +1,23 @@
+﻿@model CardModel
+@*
+    
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+
+
+
+    <button type="submit">Click to draw more cards</button>
+    <h2>Cards remaining @Model.remaining</h2>
+
+    @foreach (Card c in Model.cards)
+    {
+        <div>
+            <h3>@c.value @c.suit</h3>
+            <img src="@c.image" />
+        </div>
+    }
+

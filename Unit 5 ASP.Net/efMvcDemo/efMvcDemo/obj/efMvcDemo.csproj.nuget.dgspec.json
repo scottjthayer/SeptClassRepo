@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj": {}
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj": {
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
         "projectName": "efMvcDemo",
-        "projectPath": "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
+        "projectPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\efMvcDemo.csproj",
         "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeo\\source\\repos\\efMvcDemo\\efMvcDemo\\obj\\",
+        "outputPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\efMvcDemo\\efMvcDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

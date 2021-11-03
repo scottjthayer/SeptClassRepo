@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeo\\source\\repos\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj": {}
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeo\\source\\repos\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj": {
+    "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj",
+        "projectUniqueName": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj",
         "projectName": "EfMvcExerciseCode",
-        "projectPath": "C:\\Users\\Jeo\\source\\repos\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj",
+        "projectPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcExerciseCode\\EfMvcExerciseCode\\EfMvcExerciseCode.csproj",
         "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeo\\source\\repos\\EfMvcExerciseCode\\EfMvcExerciseCode\\obj\\",
+        "outputPath": "C:\\Users\\Jeo\\Desktop\\Class Repo\\Unit 5 ASP.Net\\EfMvcExerciseCode\\EfMvcExerciseCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
