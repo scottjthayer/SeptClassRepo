@@ -24,7 +24,7 @@ Remaining: @Model.remaining
         string keepCard = "keep" + i;
 
         @* Only passes value back if box is checked *@
-        <input type="checkbox" id="@keepCard" name="keepIndex[@i]" value="@i" />
+        <input type="checkbox" id="@keepCard" name="keepIndex[]" value="@i" />
         <label for="@keepCard">Keep Card?</label>
 
         @* Passing card information in the body of the form*@
