@@ -1,0 +1,80 @@
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.exe
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.deps.json
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.json
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.Views.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.Views.pdb
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfo.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorAssemblyInfo.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorAssemblyInfo.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\staticwebassets\CardDemo.StaticWebAssets.Manifest.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\staticwebassets\CardDemo.StaticWebAssets.xml
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\CardDemo.styles.css
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.TagHelpers.input.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.TagHelpers.output.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorCoreGenerate.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.Views.pdb
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.genruntimeconfig.cache
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CopyComplete
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Josh\source\repos\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.exe
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.deps.json
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.json
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.runtimeconfig.dev.json
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.Views.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\CardDemo.Views.pdb
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.AssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorAssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\staticwebassets\CardDemo.StaticWebAssets.Manifest.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\staticwebassets\CardDemo.StaticWebAssets.xml
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\CardDemo.styles.css
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.TagHelpers.input.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.TagHelpers.output.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorCoreGenerate.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.Views.pdb
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.csproj.CopyComplete
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.dll
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.pdb
+C:\Users\Josh\Desktop\GC class repo\SeptClassRepo\Unit 5 ASP.Net\CardDemo\CardDemo\obj\Debug\netcoreapp3.1\CardDemo.genruntimeconfig.cache

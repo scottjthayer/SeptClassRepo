@@ -1,0 +1,34 @@
+﻿@model CardSet
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Results</h1>
+
+Deck Id: @Model.deck_id
+<br />
+Remaining: @Model.remaining
+<br />
+
+
+<form method="post" asp-action="Index" asp-route-deckId="@Model.deck_id">
+
+    @for (int i = 0; i < Model.cards.Count(); i++)
+    {
+        <div>Suit: @Model.cards[i].suit</div>
+        <div>Value: @Model.cards[i].value</div>
+        <div>
+            <img src="@Model.cards[i].image" />
+        </div>
+        @* Only passes value back if box is checked *@
+        <input type="checkbox" id="keepCard" name="keepIndex[@i]" value="@i" />
+        <label for="keepCard">Keep Card?</label>
+
+        @* Passing card information in the body of the form*@
+        <input type="hidden" name="hand[@i].suit" value="@Model.cards[i].suit" />
+        <input type="hidden" name="hand[@i].value" value="@Model.cards[i].value" />
+        <input type="hidden" name="hand[@i].image" value="@Model.cards[i].image" />
+    }
+    <br />
+    <input type="submit" value="Draw more cards" />
+</form>
