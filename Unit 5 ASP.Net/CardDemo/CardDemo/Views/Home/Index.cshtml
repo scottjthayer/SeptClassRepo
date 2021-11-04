@@ -20,9 +20,12 @@ Remaining: @Model.remaining
         <div>
             <img src="@Model.cards[i].image" />
         </div>
+        @* increment id attributes*@
+        string keepCard = "keep" + i;
+
         @* Only passes value back if box is checked *@
-        <input type="checkbox" id="keepCard" name="keepIndex[@i]" value="@i" />
-        <label for="keepCard">Keep Card?</label>
+        <input type="checkbox" id="@keepCard" name="keepIndex[@i]" value="@i" />
+        <label for="@keepCard">Keep Card?</label>
 
         @* Passing card information in the body of the form*@
         <input type="hidden" name="hand[@i].suit" value="@Model.cards[i].suit" />
