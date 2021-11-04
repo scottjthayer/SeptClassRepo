@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post" asp-action="CreateUser">
+    <label for="FirstName">Please enter a first name.</label>
+    <input type="text" name="FirstName" id="FirstName" required />
+    <br />
+    <label for="LastName">Please enter a last name.</label>
+    <input type="text" name="LastName" id="LastName" required />
+    <br />
+    <label for="Email">Please enter an email.</label>
+    <input type="email" name="Email" id="Email" required />
+    <br />
+    <label for="Password">Please enter a password.</label>
+    <input type="password" name="Password" id="Password" required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Please enter at least 1 captial, 1 lowercase and a number. Minimum 8 characters" />
+    <br />
+    <label for="FavDrink">Please enter a favorite drink.</label>
+    <select name="FavDrink" id="FavDrink" required>
+        <option value="Peppermint Mocha">Peppermint Mocha</option>
+        <option value="Espresso">Espresso</option>
+        <option value="White chocolate mocha">White chocolate mocha</option>
+        <option value="Café con leche">Café con leche</option>
+        <option value="Chai Latte">Chai Latte</option>
+        <option value="Pumpkin Spice">Pumpkin Spice</option>
+    </select>
+    <br />
+    <label for="Birthday">Please enter your birthday.</label>
+    <input type="date" name="Birthday" id="Birthday" required />
+    <br />
+
+    <input type="submit" />
+</form>
