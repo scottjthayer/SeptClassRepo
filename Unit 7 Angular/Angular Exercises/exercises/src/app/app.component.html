@@ -1,0 +1,19 @@
+<h1>Manually input classification and display all animals</h1>
+<div *ngFor="let A of getAnimalsByClassifcation('Mammal')">
+  <p>{{ A.name }} {{ A.classification }}</p>
+</div>
+
+<div *ngFor="let A of getAnimalsByClassifcation('Fish')">
+  <p>{{ A.name }} {{ A.classification }}</p>
+</div>
+
+<div *ngFor="let A of getAnimalsByClassifcation('Reptile')">
+  <p>{{ A.name }} {{ A.classification }}</p>
+</div>
+
+<h1>Automatically grab classification and display all animals</h1>
+<div *ngFor="let C of getAllUniqueClassifications()">
+  <div *ngFor="let A of getAnimalsByClassifcation(C)">
+    <p>{{ A.name }} {{ A.classification }}</p>
+  </div>
+</div>
