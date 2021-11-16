@@ -1,0 +1,22 @@
+<h1>Welcome to {{ title }}</h1>
+<h2>Age is {{ age }}</h2>
+
+<div *ngFor="let name of names">
+  <p>{{ name }}</p>
+  <button (click)="changeTitle(name)">Click me!</button>
+</div>
+
+<button (click)="changeTitle('Egg')">Click me!</button>
+
+<form #nameForm="ngForm" (ngSubmit)="addName(nameForm)">
+  <label for="name">Enter a name!</label>
+  <input name="name" id="name" ngModel />
+  <button>Add to Names</button>
+</form>
+
+<!-- take in an age -->
+<form #ageForm="ngForm" (ngSubmit)="setAge(ageForm)">
+  <label for="age">Enter an age!</label>
+  <input name="age" type="number" id="age" ngModel />
+  <button>Update Name</button>
+</form>

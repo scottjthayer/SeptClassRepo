@@ -1,0 +1,5 @@
+<div *ngFor="let P of peopleList">
+  <p>{{ P.name }}</p>
+  <button [routerLink]="['/people', P.id]">View Details</button>
+  <!-- routerLink="/people/{{ P.id }}" -->
+</div>

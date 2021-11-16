@@ -1,0 +1,8 @@
+<form #redditForm="ngForm" (ngSubmit)="SearchReddit(redditForm)">
+  <input name="SubReddit" placeholder="Please enter a subreddit" ngModel />
+  <button>Search</button>
+</form>
+
+<h1 *ngIf="postList.length == 0">That was not a subreddit</h1>
+
+<app-post *ngFor="let P of postList" [PostInfo]="P"></app-post>

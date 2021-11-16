@@ -1,0 +1,8 @@
+<h1>{{ result.title }}</h1>
+<h2>{{ result.language }}</h2>
+
+<div *ngFor="let P of result.posts">
+  <p>{{ P.title }}</p>
+  <p>{{ P.author }}</p>
+  {{ P.content }}
+</div>

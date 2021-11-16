@@ -1,0 +1,26 @@
+.strike {
+  text-decoration: line-through;
+}
+.taskList {
+  background-color: #eee;
+  padding: 10%;
+  border: #bbb solid 5px;
+  border-radius: 10px;
+}
+.edit {
+  display: flex;
+}
+.add {
+  width: 100%;
+}
+.task {
+  display: flex;
+  align-items: flex-end;
+}
+.complete {
+  color: #ff1493;
+  border: #ff1493 solid 2px;
+  border-radius: 5px;
+  height: auto;
+  width: auto;
+}

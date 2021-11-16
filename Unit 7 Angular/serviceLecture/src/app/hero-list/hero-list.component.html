@@ -1,0 +1,11 @@
+<div *ngFor="let H of displayHeros()">
+  <p>{{ H.name }} : {{ H.power }} : {{ H.alterEgo }}</p>
+</div>
+
+<form #AddHeroForm="ngForm" (ngSubmit)="AddHero(AddHeroForm)">
+  <input name="Name" ngModel placeholder="Enter Name" />
+  <input name="Power" ngModel placeholder="Enter Power" />
+  <input name="AlterEgo" ngModel placeholder="Enter AlterEgo" />
+
+  <button>Add Hero!</button>
+</form>
