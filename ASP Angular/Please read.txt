@@ -1,3 +1,0 @@
-The default project here does not include a .gitignore 
-so uploading this onto github will be massive. 
-Add a gitignore from another ASP Angular project into the clientapp folder 
