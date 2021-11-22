@@ -1,0 +1,10 @@
+<div class="card col-4">
+  <div class="card-body">
+    <img class="img-fluid" src="{{ cat.url }}" height="250" />
+  </div>
+  <div class="card-footer">
+    <button *ngIf="isAuthenticated | async" (click)="AddFavorite()">Add to Favorites</button>
+    <button *ngIf="isAuthenticated | async" (click)="DeleteFav()">Delete from Favorites</button>
+  </div>
+</div>
+<br />

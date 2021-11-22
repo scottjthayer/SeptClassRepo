@@ -1,0 +1,7 @@
+<form #searchForm="ngForm" (ngSubmit)="submitForm(searchForm)">
+  <label for="count">How many cats do you want to see?</label>
+  <input type="number" name="count" id="count" ngModel/>
+  <button>Search</button>
+</form>
+
+<app-cat *ngFor="let C of DisplayCat" [cat]="C"></app-cat>
